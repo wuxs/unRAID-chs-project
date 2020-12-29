@@ -23,9 +23,3 @@ https://raw.githubusercontent.com/KleinerSource/unRAID-chs-project/master/releas
 在unraid启动完成后 利用winscp等软件 连接到unraid ssh 将文件复制到 /usr/local/emhttp/plugins 中. 刷新页面即可.
 
 注: 该方法在 unraid server 重启服务器之后 将会恢复到原英文版.
-
-### 如果这个项目对您有用, 可以请我喝杯茶, 以鼓励项目能持续发展, 更加完善.
-<img src="https://github.com/KleinerSource/OpenWrt-CI/blob/master/files/aa758aba2fc7e60907fd3f6012b4eef.jpg?raw=true" width="300">
-<img src="https://github.com/KleinerSource/OpenWrt-CI/blob/master/files/fec628a827f9273fde43a928a06e48e.jpg?raw=true" width="300">
-
-遇到问题可以提交 ISSUES 给我.
